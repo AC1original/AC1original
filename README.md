@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2>Hi 👋! My name is Nils and I'm from Germany</h2>
+  <h2>Hi 👋! My name is Nils</h2>
 
   ###
 
